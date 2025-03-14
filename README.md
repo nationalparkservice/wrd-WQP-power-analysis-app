@@ -1,4 +1,4 @@
-Setup
+### Setup
  
 R packages can be built as a source package (all computers) or binary (Windows).  The npsMK R package will have a suffix of .zip or .tgz for a binary package.
  
@@ -24,7 +24,7 @@ If you copy and paste the code into the console, delete and retype the quotes.
 install.packages(c("shiny", "Kendall", "tidyverse", "dataRetrieval", "kableExtra"))
  
  
-Shiny App
+### Shiny App
  
 To open the app, run the following line of code in your R console.
  
